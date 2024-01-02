@@ -1,6 +1,6 @@
-# CH334U
+# CH334
 
-Este es un simple CI para construir un HUB USB 2.0 de muy bajo coste, diseñado y fabricado en china por [Jiangsu Heng Qin Ltd. (WCH)](http://www.wch-ic.com). De momento nos vamos a centrar en el CH334U que tiene unas prestaciones muy versátiles, entre ellas destacan las siguientes:
+Este es un simple IC para construir un HUB USB 2.0 de muy bajo coste, diseñado y fabricado en china por [Jiangsu Heng Qin Ltd. (WCH)](http://www.wch-ic.com). De momento nos vamos a centrar en el CH334U que tiene unas prestaciones muy versátiles, entre ellas destacan las siguientes:
 
 - HUB USB 2.0 de 4 puertos de velocidad máxima de 480Mbps.
 - Compatible con USB 1.1
@@ -12,11 +12,13 @@ Este es un simple CI para construir un HUB USB 2.0 de muy bajo coste, diseñado 
 
 En la imagen no mostramos el resto de los puertos USB para evitar de complicar la imagen evitando la simple percepción del circuito mínimo.
 
+Puedes conseguir los IC en la tienda oficial de [AliExpress](https://wchofficialstore.es.aliexpress.com/store/1100367542) o en [JLCMC](https://jlcmc.com).
+
 ## Componentes
 
 Use los siguientes componentes para construir el circuito mínimo:
 
-- Un CI CH334U.
+- Un IC CH334U.
 - Oscilador de cristal de 12Mhz de 12-20pF 20ppm.
 - Condensador de 0.1uF (Código: 104, Cantidad: 2).
 - Condensador de 1uF (Código: 105, Cantidad: 1).
