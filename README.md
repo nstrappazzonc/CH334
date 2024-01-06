@@ -36,3 +36,9 @@ Haga uso de las siguientes consideraciones para construir y verificar el circuit
 - Asegúrese de tener un cable USB que funcione, no solo el VCC y el GND, sino también D+ y D-.
 - Para el CH334U, mida con un voltímetro los siguientes pines: 13, 17, 21, 26. Los cuatro deben tener alrededor de 3.3v.
 - El oscilador de cristal de 12Mhz con las siguientes características: entre 12pF y 20pF y 20ppm.
+
+## Proyectos relacionados
+
+- [CH340 - USB 2.0 to Serial](https://github.com/nstrappazzonc/CH340)
+- [CH552 - 8-bits MCU - 8051](https://github.com/nstrappazzonc/CH552)
+- [CH9141 - Bluetooth Serial Transparent](https://github.com/nstrappazzonc/CH9141)
