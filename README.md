@@ -12,7 +12,7 @@ Este es un simple IC para construir un HUB USB 2.0 de muy bajo coste, diseñado 
 
 En la imagen no mostramos el resto de los puertos USB para evitar de complicar la imagen evitando la simple percepción del circuito mínimo.
 
-Puedes conseguir los IC en la tienda oficial de [AliExpress](https://wchofficialstore.es.aliexpress.com/store/1100367542) o en [JLCMC](https://jlcmc.com).
+Puedes conseguir los IC en la tienda oficial de [AliExpress](https://wchofficialstore.es.aliexpress.com/store/1100367542) o en [LCSC](https://www.lcsc.com).
 
 ## Componentes
 
